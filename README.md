@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to SnapTag Inc.
 
-You can use the [editor on GitHub](https://github.com/LMW940423/SnapTag_Support/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+(주)스냅태그는 국내 최초로 라벨, 패키지, 필름 등의 제품 디자인에 보이지 않는 코드를 삽입하는 기술을 개발하는 회사입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description of technology
 
-### Markdown
+Invisible Watermark 기반의 이미지 코딩 기술
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+국내 최초로 라벨, 패키지, 필름 등의 제품 디자인에 보이지 않는 코드를 삽입하는 기술
 
-```markdown
-Syntax highlighted code block
+특징
 
-# Header 1
-## Header 2
-### Header 3
+1. 특수 인쇄, 특수 잉크 없이 기존의 그라비아, 옵셋, 디지털 인쇄 등의 인쇄공정 그대로 솔루션 적용이 가능!
+2. 기타 인증 솔루션과 달리 추가 부착 공정 불 필요!
+3. 필름, 의류, 박스 등 재질에 무관하게 코드 삽입이 가능!
 
-- Bulleted
-- List
+- 관련 영상 : [Link](https://www.youtube.com/watch?v=gXXK4BaaBKA)
+- 관련 기사 : [Link](http://digitalchosun.dizzo.com/site/data/html_dir/2021/03/15/2021031580222.html)
 
-1. Numbered
-2. List
+### Description of App called 'SnapTag'
 
-**Bold** and _Italic_ and `Code` text
+위에서 설명한 기술이 적용된 제품을 스캔하기 위한 일종의 스캐너 역할을 하는 앱입니다.
+'SnapTag'앱을 통해 기술이 적용된 제품의 다양한 정보를 얻을 수 있습니다.
 
-[Link](url) and ![Image](src)
-```
+### Contact Us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LMW940423/SnapTag_Support/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email : tnctis21@snaptag.co.kr
